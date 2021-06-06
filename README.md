@@ -1,3 +1,8 @@
+# NOTE
+
+This repo is a fork of https://github.com/kasvith/simplelb.
+It exists to provide a released version of SimpleLB for use in CI/CD tool chains.
+
 # SimpleLB
 
 Simple LB is the simplest Load Balancer ever created.
